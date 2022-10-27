@@ -171,51 +171,51 @@ header nav ul a:hover::after{
   position: fixed;
 }
 
-.services{
+.Clarice{
   margin: 120px 382px 120px 265px;
 }
 
-.services h1, .skills h1, .work h1, .exp h1, .contact h1{
+.Clarice h1, .Claudio h1, .grupo h1, .fernando h1, .contact h1{
   font-size: 2rem;
   font-family: 'Space Mono', monospace;
   color: var(--destaques);
   margin-bottom: 48px;
 }
 
-.services .cards{
+.Clarice .cards{
   display: flex;
   justify-content: space-between;
   gap: 32px;
 }
 
-.services .card{
+.Clarice .card{
   border: 1px solid rgba(44, 44, 44, 0.7);
   border-radius: 8px;
   padding: 20px 16px;
 }
 
-.services .card img{
+.Clarice .card img{
   margin-bottom: 12px;
 }
 
-.services .card h2{
+.Clarice .card h2{
   font-family: 'Raleway', sans-serif;
   font-size: 1.5rem;
   color: var(--destaques);
   margin-bottom: 8px;
 }
 
-.services .card p{
+.Clarice .card p{
   font-family: 'Raleway', sans-serif;
   color: var(--textos);
   max-width: 300px;
 }
 
-.skills, .work, .exp, .contact{
+.Claudio, .grupo, .fernando, .contact{
     margin: 0 382px 120px 265px;
 }
 
-.skills-galery{
+.Claudio-galery{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 48px;
@@ -235,13 +235,13 @@ header nav ul a:hover::after{
   color: var(--destaques);
 }
 
-.work-btns{
+.grupo-btns{
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.work .work-btns a{
+.grupo .grupo-btns a{
   border: 1px solid var(--primaria);
   padding: 14px 20px;
   color: var(--destaques);
@@ -252,19 +252,28 @@ header nav ul a:hover::after{
   font-family: 'Raleway', sans-serif;
 }
 
-.work .work-btns a:hover{
+.grupo .grupo-btns a:hover{
   background-color: var(--primaria);
   transition: .3s;
 }
 
-.exp h2{
+.grupo img{
+  opacity: 0.4;
+  transition: .7s;
+}
+
+.grupo img:hover{
+  opacity: 1;
+}
+
+.fernando h2{
   font-family: 'Raleway', sans-serif;
   font-size: 1.375rem;
   color: var(--destaques);
   margin-bottom: 12px;
 }
 
-.exp p{
+.fernando p{
   max-width: 793px;
   color: var(--textos);
   font-family: 'Raleway', sans-serif;
@@ -343,15 +352,15 @@ footer{
     margin: 0 32px;
   }
 
-  .services {
+  .Clarice {
     margin: 120px 32px 120px 32px;
 }
 
-  .services .cards{
+  .Clarice .cards{
     flex-wrap: nowrap;
   }
 
-  .skills, .work, .exp, .contact{
+  .Claudio, .grupo, .fernando, .contact{
     margin: 0 32px 120px 32px;
   }
 
@@ -422,10 +431,10 @@ footer{
 }
 
 @media screen and (max-width: 767px){
-  .services .cards{
+  .Clarice .cards{
     flex-wrap: wrap;
   }
-  .skills-galery{
+  .Claudio-galery{
     grid-template-columns: 1fr 1fr;
     gap: 32px;
   }
@@ -441,13 +450,13 @@ footer{
   header figure{
     width: 200px;
   }
-  .services{
+  .Clarice{
   margin: 60px 32px 60px 32px;
   }
-  .skills, .work, .exp, .contact{
+  .Claudio, .grupo, .fernando, .contact{
     margin: 0 32px 60px 32px;
   }
-  .services h1, .skills h1, .work h1, .exp h1, .contact h1{
+  .Clarices h1, .Claudio h1, .grupo h1, .fernando h1, .contact h1{
     margin-bottom: 24px;
   }
   .contact .contact-btns {
@@ -461,8 +470,26 @@ footer{
   .home .content .desc {
     font-size: 1.25rem;
   }
-  .contact .contact-btns a, .work .work-btns a{  
+  .contact .contact-btns a, .grupo .grupo-btns a{  
     padding: 12px 16px;
     font-size: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 400px){
+  .Claudio-galery{
+    gap: 24px;
+  }
+  .skill img {
+    width: 36px;
+  }
+  .skill p{
+    font-size: 1.125rem;
+  }
+}
+
+@media screen and (max-width: 330px){
+  .Claudio-galery{
+    grid-template-columns: 1fr;
   }
 }
