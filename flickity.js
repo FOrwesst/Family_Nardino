@@ -833,7 +833,311 @@ var flkty = new Flickity( '.main-carousel_48', {
   // options
 });
 
+var elem = document.querySelector('.main-carousel_49');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
 
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_49', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_50');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_50', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_51');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_51', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_52');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_52', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_53');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_53', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_54');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_54', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_55');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_55', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_56');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_56', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_57');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_57', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_58');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_58', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_59');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_59', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_60');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_60', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_61');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_61', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_62');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_62', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_63');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_63', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_64');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_64', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_65');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_65', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel_66');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_66', {
+  // options
+});
 
 
 // Claudio
