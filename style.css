@@ -252,6 +252,7 @@ header nav ul a:hover::after{
   font-family: 'Raleway', sans-serif;
 }
 
+
 .grupo .grupo-btns a:hover{
   background-color: var(--primaria);
   transition: .3s;
