@@ -1156,6 +1156,24 @@ var flkty = new Flickity( '.main-carousel_67', {
   // options
 });
 
+var elem = document.querySelector('.main-carousel_68');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_68', {
+  // options
+});
+
+
 
 // Claudio
 
@@ -2092,6 +2110,23 @@ var flkty = new Flickity( elem, {
 // element argument can be a selector string
 //   for an individual element
 var flkty = new Flickity( '.main-carousel2_54', {
+  // options
+});
+
+var elem = document.querySelector('.main-carousel2_55');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel2_55', {
   // options
 });
 
