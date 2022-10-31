@@ -1190,6 +1190,23 @@ var flkty = new Flickity( '.main-carousel_69', {
   // options
 });
 
+var elem = document.querySelector('.main-carousel_70');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'left',
+  prevNextButtons: false,
+  freeScroll: true,
+  groupCells: true,
+  contain: true,
+  draggable: true,
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel_70', {
+  // options
+});
+
 
 
 
